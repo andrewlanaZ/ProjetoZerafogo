@@ -1,0 +1,17 @@
+D:\Área de Trabalho\AndrewLanaProjects\ZeraFogoApp\obj\Debug\net9.0-windows\ZeraFogoApp.csproj.GenerateResource.cache
+D:\Área de Trabalho\AndrewLanaProjects\ZeraFogoApp\obj\Debug\net9.0-windows\ZeraFogoApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Área de Trabalho\AndrewLanaProjects\ZeraFogoApp\obj\Debug\net9.0-windows\ZeraFogoApp.AssemblyInfoInputs.cache
+D:\Área de Trabalho\AndrewLanaProjects\ZeraFogoApp\obj\Debug\net9.0-windows\ZeraFogoApp.AssemblyInfo.cs
+D:\Área de Trabalho\AndrewLanaProjects\ZeraFogoApp\obj\Debug\net9.0-windows\ZeraFogoApp.csproj.CoreCompileInputs.cache
+D:\Área de Trabalho\AndrewLanaProjects\ZeraFogoApp\bin\Debug\net9.0-windows\ZeraFogoApp.exe
+D:\Área de Trabalho\AndrewLanaProjects\ZeraFogoApp\bin\Debug\net9.0-windows\ZeraFogoApp.deps.json
+D:\Área de Trabalho\AndrewLanaProjects\ZeraFogoApp\bin\Debug\net9.0-windows\ZeraFogoApp.runtimeconfig.json
+D:\Área de Trabalho\AndrewLanaProjects\ZeraFogoApp\bin\Debug\net9.0-windows\ZeraFogoApp.dll
+D:\Área de Trabalho\AndrewLanaProjects\ZeraFogoApp\bin\Debug\net9.0-windows\ZeraFogoApp.pdb
+D:\Área de Trabalho\AndrewLanaProjects\ZeraFogoApp\obj\Debug\net9.0-windows\ZeraFogoApp.dll
+D:\Área de Trabalho\AndrewLanaProjects\ZeraFogoApp\obj\Debug\net9.0-windows\refint\ZeraFogoApp.dll
+D:\Área de Trabalho\AndrewLanaProjects\ZeraFogoApp\obj\Debug\net9.0-windows\ZeraFogoApp.pdb
+D:\Área de Trabalho\AndrewLanaProjects\ZeraFogoApp\obj\Debug\net9.0-windows\ZeraFogoApp.genruntimeconfig.cache
+D:\Área de Trabalho\AndrewLanaProjects\ZeraFogoApp\obj\Debug\net9.0-windows\ref\ZeraFogoApp.dll
+D:\Área de Trabalho\AndrewLanaProjects\ZeraFogoApp\obj\Debug\net9.0-windows\ZeraFogoApp.Form1.resources
+D:\Área de Trabalho\AndrewLanaProjects\ZeraFogoApp\obj\Debug\net9.0-windows\ZeraFogoApp.PaginaProdutos.resources
